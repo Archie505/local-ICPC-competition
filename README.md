@@ -1,2 +1,2 @@
-# local ICPC competition
+# Local ICPC competition
  
